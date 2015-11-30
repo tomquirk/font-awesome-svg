@@ -8,8 +8,8 @@
 
 ## Usage
 
-<svg class="icon icon-phone">
-    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use>
-</svg>
+        `<svg class="icon icon-phone">
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-phone"></use>
+        </svg>`
 
 ## Go Nuts!
