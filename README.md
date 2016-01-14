@@ -1,5 +1,6 @@
-# Font Awesome SVG
-### For easy inline-SVG usage of our favourite icon package
+# Font Awesome SVG Starterpack
+
+### A useful selection of icons from your favourite icon package
 
 ## Getting Started
 
@@ -15,6 +16,7 @@ Put this code ANYWHERE in your HTML, and change the icon at your leisure
         </svg>
 
 ## Go Nuts!
+
 ### Credits
 
 https://fortawesome.github.io/Font-Awesome/
